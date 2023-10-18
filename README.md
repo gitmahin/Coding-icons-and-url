@@ -1,4 +1,5 @@
 # SVG Icons and urls
+Usage: View Source Code and just copy and paste to your README.md
 
 
 ## Programming Languages
